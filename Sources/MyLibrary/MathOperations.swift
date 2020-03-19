@@ -8,7 +8,7 @@
 
 import Foundation
 
-class MathOperations {
+public class MathOperations {
     
     // MARK: - Custom Type: Operation
     
